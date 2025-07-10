@@ -133,6 +133,9 @@ Pull requests and suggestions are welcome. If you’d like to improve the detect
 
 This project uses OpenCV's Haar Cascade classifiers, distributed under the Intel Open Source License.  
 All custom Python code is released under the MIT License.
+This project uses the Haar Cascade XML classifiers provided by OpenCV, which are distributed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+All custom Python code in this repository is released under the [MIT License](https://opensource.org/licenses/MIT).
+
 
 ---
 
